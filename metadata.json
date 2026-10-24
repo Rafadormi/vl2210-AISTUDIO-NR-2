@@ -1,0 +1,6 @@
+{
+  "name": "Vidraçaria Liderança — Vidros e Esquadrias Sob Medida em Umuarama",
+  "description": "Box para banheiro, espelhos sob medida, fachadas glazing, portas, janelas, guarda-corpos e esquadrias de alumínio com validação ABNT em Umuarama - PR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
